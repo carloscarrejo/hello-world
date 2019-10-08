@@ -1,0 +1,30 @@
+
+Ccarrejo@ATLW-7WR7QD2 MINGW64 /
+$ git --version
+git version 2.23.0.windows.1
+
+Ccarrejo@ATLW-7WR7QD2 MINGW64 /
+$ mkdir git_practice
+
+Ccarrejo@ATLW-7WR7QD2 MINGW64 /
+$ cd git_practice
+
+Ccarrejo@ATLW-7WR7QD2 MINGW64 /git_practice
+$ git init
+Initialized empty Git repository in C:/Users/Ccarrejo/AppData/Local/Programs/Git/git_practice/.git/
+
+Ccarrejo@ATLW-7WR7QD2 MINGW64 /git_practice (master)
+$ echo "Hello Git and Github" >> README.txt
+
+Ccarrejo@ATLW-7WR7QD2 MINGW64 /git_practice (master)
+$ git add README.txt
+warning: LF will be replaced by CRLF in README.txt.
+The file will have its original line endings in your working directory
+
+Ccarrejo@ATLW-7WR7QD2 MINGW64 /git_practice (master)
+$ git commit -m "First commit"'
+>
+> git status
+>
+> $ git status
+>
